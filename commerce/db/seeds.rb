@@ -1,0 +1,3 @@
+
+Product.delete_all
+
